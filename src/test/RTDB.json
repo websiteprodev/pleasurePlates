@@ -1,0 +1,26 @@
+{
+  "users": {
+    "pesho@abv.bg": {
+      "uid": "EKcj9ej9KLL",
+      "firstName": "Pesho",
+      "lastName": "Petrov",
+      "createOn": "12-12-2024"
+    },
+    "gosho@abv.bg": {
+      "uid": "JKSD00dfjjkk",
+      "firstName": "Gosho",
+      "lastName": "Petrov",
+      "createOn": "12-12-2024"
+    }
+  },
+  "posts": {
+    "-Mnjdijfoij": {
+      "title": "Hi",
+      "content": "hello there",
+      "createOn": "12-12-2024",
+      "likedBy": {
+        "pesho@abv.bg": true
+      }
+    }
+  }
+}
